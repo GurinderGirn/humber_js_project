@@ -17,3 +17,11 @@ Page 'Booking'
 Menu section avout European Cuisine
 
 Please add your name and your pages below...
+
+Gurinder Girn:
+
+page 'home'
+page 'contact_us'
+menu about indian cuisine
+
+
